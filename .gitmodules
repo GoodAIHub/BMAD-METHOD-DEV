@@ -1,0 +1,6 @@
+[submodule "src/modules/fund-os/Fund-OS"]
+	path = src/modules/fund-os/Fund-OS
+	url = https://github.com/GoodAIHub/Fund-OS.git
+[submodule "src/modules/fund-os"]
+	path = src/modules/fund-os
+	url = https://github.com/GoodAIHub/Fund-OS.git
